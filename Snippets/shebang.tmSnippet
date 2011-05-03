@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>#!/bin/bash</string>
+	<key>name</key>
+	<string>shebang</string>
+	<key>scope</key>
+	<string>source.shell</string>
+	<key>tabTrigger</key>
+	<string>shebang</string>
+	<key>uuid</key>
+	<string>DA0626EE-39F9-4F9E-B4B3-E083C068A96F</string>
+</dict>
+</plist>

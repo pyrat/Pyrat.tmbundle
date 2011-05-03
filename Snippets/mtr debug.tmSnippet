@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Metreno::logDebug($0);</string>
+	<key>name</key>
+	<string>mtr debug</string>
+	<key>scope</key>
+	<string>source.php, text.html, text.tpl, source.html</string>
+	<key>tabTrigger</key>
+	<string>mtd</string>
+	<key>uuid</key>
+	<string>B9243E58-AB06-4705-8625-C84B407E8756</string>
+</dict>
+</plist>

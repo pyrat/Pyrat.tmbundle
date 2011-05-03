@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>:method =&gt; :delete, :confirm =&gt; 'Are you Sure?'</string>
+	<key>name</key>
+	<string>method delete</string>
+	<key>tabTrigger</key>
+	<string>meth</string>
+	<key>uuid</key>
+	<string>6A330D04-348E-414B-A424-42ACEB57A7D1</string>
+</dict>
+</plist>

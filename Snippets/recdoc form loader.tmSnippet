@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>this.$1 = new adeccoRecDoc.forms.$1();$0</string>
+	<key>name</key>
+	<string>recdoc form loader</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>rdfl</string>
+	<key>uuid</key>
+	<string>8862CA6B-5184-4DE7-9BD5-817FD0944B63</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;% if ${1:objects}.empty? %&gt;
+  &lt;p&gt;${2:There are no items to display.}&lt;/p&gt;
+&lt;% else %&gt;
+  $0
+&lt;% end %&gt;</string>
+	<key>name</key>
+	<string>list view logic</string>
+	<key>tabTrigger</key>
+	<string>lvl</string>
+	<key>uuid</key>
+	<string>14FF6FF5-405E-4BA5-AA01-E0C5C559D9AD</string>
+</dict>
+</plist>

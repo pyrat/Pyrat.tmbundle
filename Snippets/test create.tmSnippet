@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>def create(options={})
+  ${1:Object}.create(
+  {
+    $0
+  }.merge(options)
+  )
+end</string>
+	<key>name</key>
+	<string>test create</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>test_create</string>
+	<key>uuid</key>
+	<string>031934D2-6F21-48C8-8EEA-1C78381D5ABE</string>
+</dict>
+</plist>

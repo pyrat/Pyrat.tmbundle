@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>There were some errors with your submission.</string>
+	<key>name</key>
+	<string>error text for flash</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>ertxt</string>
+	<key>uuid</key>
+	<string>45D03493-065D-40D8-8854-91F4B08B32FA</string>
+</dict>
+</plist>

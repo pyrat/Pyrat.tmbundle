@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Author: Alastair Brunton</string>
+	<key>name</key>
+	<string>author snippet</string>
+	<key>tabTrigger</key>
+	<string>auth</string>
+	<key>uuid</key>
+	<string>0C92CD4A-487B-425E-9C2E-F225EE1E6054</string>
+</dict>
+</plist>

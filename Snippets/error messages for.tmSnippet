@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;%= error_messages_for "${1:object}" %&gt;$0</string>
+	<key>name</key>
+	<string>error messages for</string>
+	<key>tabTrigger</key>
+	<string>ermsg</string>
+	<key>uuid</key>
+	<string>4F0C0F51-7499-4E54-8E31-026A24779D32</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ActiveRecord::RecordInvalid</string>
+	<key>name</key>
+	<string>activerecord invalid exception</string>
+	<key>tabTrigger</key>
+	<string>ari</string>
+	<key>uuid</key>
+	<string>BD5F1C2D-2FE3-438A-9539-A1470712FA9F</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>:builder =&gt; SimpleBuilder</string>
+	<key>name</key>
+	<string>form builder code</string>
+	<key>scope</key>
+	<string>text.html.ruby, text.haml</string>
+	<key>tabTrigger</key>
+	<string>builder</string>
+	<key>uuid</key>
+	<string>934F0BE7-60C3-4E83-BA1E-E0B763724A8B</string>
+</dict>
+</plist>

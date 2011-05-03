@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@${1:object} = ${2:Object}.new(params[:$1])
+if @$1.save
+	$3      
+else	
+	$0      
+end</string>
+	<key>name</key>
+	<string>create logic</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>create_logic</string>
+	<key>uuid</key>
+	<string>254DE7F2-76C2-418A-B6C3-530731D8DA1B</string>
+</dict>
+</plist>

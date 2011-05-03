@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>rescue ApplicationError =&gt; msg
+	flash[:warning] = msg.to_s
+end</string>
+	<key>name</key>
+	<string>resc app</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>rescapp</string>
+	<key>uuid</key>
+	<string>D161E423-B121-4E4F-8081-46B1E0484136</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;%= render :partial =&gt; "form", :locals =&gt; { :f =&gt; f } %&gt;</string>
+	<key>name</key>
+	<string>render partial form</string>
+	<key>scope</key>
+	<string>text.html.ruby</string>
+	<key>tabTrigger</key>
+	<string>rpf</string>
+	<key>uuid</key>
+	<string>5C52EDF3-AB11-4A88-8FC3-4C4E7055C8CC</string>
+</dict>
+</plist>

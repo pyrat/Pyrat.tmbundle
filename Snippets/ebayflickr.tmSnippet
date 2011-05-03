@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;a href="${1:$TM_SELECTED_TEXT}" target="_blank"&gt;&lt;img src="${2:$TM_SELECTED_TEXT}" border="0"  alt="$3"/&gt;&lt;/a&gt;
+*$3*
+$0</string>
+	<key>keyEquivalent</key>
+	<string>^I</string>
+	<key>name</key>
+	<string>ebayflickr</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>flickr</string>
+	<key>uuid</key>
+	<string>F0A690D8-735B-4F49-A78B-02AA2D00317F</string>
+</dict>
+</plist>

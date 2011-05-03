@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@$1 = $2.find params[${3::id}]</string>
+	<key>name</key>
+	<string>find object</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>fobj</string>
+	<key>uuid</key>
+	<string>4761FF95-E348-4ED7-89C1-BDC82DF92ECA</string>
+</dict>
+</plist>

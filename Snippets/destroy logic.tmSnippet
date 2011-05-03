@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@${1:object} = ${2:Object}.find params[:id]
+@$1.destroy
+flash[:message] = "Deleted successfully."
+redirect_to $1s_url</string>
+	<key>name</key>
+	<string>destroy logic</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>destroy_logic</string>
+	<key>uuid</key>
+	<string>66B5142A-01BF-48C3-BE92-C44A309A1093</string>
+</dict>
+</plist>

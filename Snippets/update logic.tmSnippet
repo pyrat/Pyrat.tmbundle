@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@${1:object} = ${2:Object}.find params[:id]
+if @$1.update_attributes(params[:$1])
+  $0
+else
+  
+end
+</string>
+	<key>name</key>
+	<string>update logic</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>update_logic</string>
+	<key>uuid</key>
+	<string>66598B08-3C82-427C-86CC-D29A1CD6D2CE</string>
+</dict>
+</plist>

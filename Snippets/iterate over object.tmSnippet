@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;% ${1:objects}.each do |${2:object}| %&gt;
+  &lt;%= $2.${3:name} %&gt;
+  $0
+&lt;% end %&gt;
+</string>
+	<key>name</key>
+	<string>iterate over object</string>
+	<key>scope</key>
+	<string>text.html.ruby</string>
+	<key>tabTrigger</key>
+	<string>each</string>
+	<key>uuid</key>
+	<string>ACC4F093-7D02-4A08-BE1D-1EE8D207ACA0</string>
+</dict>
+</plist>

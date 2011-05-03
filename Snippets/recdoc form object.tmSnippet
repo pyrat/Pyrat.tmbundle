@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Ext.ns('adeccoRecDoc.forms');
+
+adeccoRecDoc.forms.$1 = Ext.extend(adeccoRecDoc.Form.FormPanel, {
+  constructor: function () {
+    
+    var contents = {
+      $0
+    };
+    
+    adeccoRecDoc.forms.$1.superclass.constructor.call(this, contents);
+  }
+});
+</string>
+	<key>name</key>
+	<string>recdoc form object</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>rdf</string>
+	<key>uuid</key>
+	<string>ADF92795-1315-42DA-BFE3-7B39A8B687F6</string>
+</dict>
+</plist>
