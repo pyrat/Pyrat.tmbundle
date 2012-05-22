@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>(err, ${1:resp}) -&gt;
+	$0
+</string>
+	<key>name</key>
+	<string>callback coffee</string>
+	<key>scope</key>
+	<string>source.coffee</string>
+	<key>tabTrigger</key>
+	<string>cbm</string>
+	<key>uuid</key>
+	<string>43BA28FC-2133-43B9-9E35-1D63D0185321</string>
+</dict>
+</plist>

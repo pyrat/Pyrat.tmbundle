@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$1 = models.$1</string>
+	<key>name</key>
+	<string>class require</string>
+	<key>scope</key>
+	<string>source.coffee</string>
+	<key>tabTrigger</key>
+	<string>modreq</string>
+	<key>uuid</key>
+	<string>FB56C42A-2126-44BA-A0B0-21E1C4E807AC</string>
+</dict>
+</plist>

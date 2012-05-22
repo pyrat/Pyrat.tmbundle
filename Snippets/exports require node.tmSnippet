@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>exports.$1 = require('./$2').$1</string>
+	<key>name</key>
+	<string>exports require node</string>
+	<key>scope</key>
+	<string>source.coffee</string>
+	<key>tabTrigger</key>
+	<string>expreq</string>
+	<key>uuid</key>
+	<string>AE4C78E9-4F05-438E-935B-57348B2F2606</string>
+</dict>
+</plist>
